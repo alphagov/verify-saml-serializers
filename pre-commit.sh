@@ -10,7 +10,7 @@ tput sgr0
 tput setaf 3
 printf "to update the following dependent projects:\n"
 
-printf "\n hub-saml"
+printf "\n hub-saml (via saml-utils)"
 printf "\n stub-idp-saml"
 printf "\n ida-sample-rp"
 printf "\n ida-msa"
